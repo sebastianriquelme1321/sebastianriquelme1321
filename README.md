@@ -28,8 +28,6 @@ experimenting with the limits of code, and I try to create things that have a re
 
 Outside of code, I'm into photography and creating things in general.
 
-Most of my work lives in private repositories; this page shows the public part.
-
 </td>
 <td valign="top">
 
@@ -37,8 +35,6 @@ Soy ingeniero de software con más de 5 años de experiencia y vivo en Chile. Me
 experimentar con los límites del código, y trato de crear cosas que tengan un impacto real en el mundo.
 
 Fuera del código me gusta la fotografía y crear cosas en general.
-
-Gran parte de mi trabajo está en repositorios privados; aquí se ve la parte pública.
 
 </td>
 </tr>

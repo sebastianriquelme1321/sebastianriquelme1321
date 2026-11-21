@@ -29,6 +29,8 @@ experimenting with the limits of code, and I try to create things that have a re
 Outside of code, I'm into photography and creating things in general. Right now those two worlds meet in
 **FilmSimulation**, a free app to apply film simulations to RAW photos.
 
+Most of my work lives in private repositories; this page shows the public part.
+
 </td>
 <td valign="top">
 
@@ -37,6 +39,8 @@ experimentar con los límites del código, y trato de crear cosas que tengan un 
 
 Fuera del código me gusta la fotografía y crear cosas en general. Hoy esos dos mundos se juntan en
 **FilmSimulation**, una app gratuita para aplicar simulaciones de película a fotos RAW.
+
+Gran parte de mi trabajo está en repositorios privados; aquí se ve la parte pública.
 
 </td>
 </tr>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sebastián 👋 · Hola, soy Sebastián</h1>
 
 <p align="center">
-  <i>I build small, useful tools, end to end. · Hago herramientas pequeñas y útiles, de punta a punta.</i><br>
+  <i>Software engineer · I like building things and pushing the limits of code.<br>Ingeniero de software · Me gusta construir cosas y experimentar con los límites del código.</i><br>
   📍 Chile 🇨🇱
 </p>
 
@@ -23,23 +23,22 @@
 <tr>
 <td valign="top">
 
-I'm a software engineer from Chile with 5+ years of experience. I like taking a small idea all the way to something people can
-actually use: the interface, the engine behind it, the tests, the packaging and the release.
+I'm a software engineer with 5+ years of experience, based in Chile. I love building things and
+experimenting with the limits of code, and I try to create things that have a real impact in the world.
 
-Lately that means a desktop app for photographers (Python and Qt). I care about software that is
-**local-first**, respects your privacy and is documented well enough for others to run and improve.
+Outside of code, I'm into photography and creating things in general. Right now those two worlds meet in
+**FilmSimulation**, a free app to apply film simulations to RAW photos.
 
 Most of my work lives in private repositories; this page shows the public part.
 
 </td>
 <td valign="top">
 
-Soy ingeniero de software con más de 5 años de experiencia y vivo en Chile. Me gusta llevar una idea pequeña hasta algo que la gente
-pueda usar de verdad: la interfaz, el motor que está detrás, las pruebas, el empaquetado y el lanzamiento.
+Soy ingeniero de software con más de 5 años de experiencia y vivo en Chile. Me gusta construir y
+experimentar con los límites del código, y trato de crear cosas que tengan un impacto real en el mundo.
 
-Últimamente eso significa una app de escritorio para fotógrafos (Python y Qt). Me importa el software
-**local primero**, que respete tu privacidad y que esté bien documentado para que otros puedan usarlo
-y mejorarlo.
+Fuera del código me gusta la fotografía y crear cosas en general. Hoy esos dos mundos se juntan en
+**FilmSimulation**, una app gratuita para aplicar simulaciones de película a fotos RAW.
 
 Gran parte de mi trabajo está en repositorios privados; aquí se ve la parte pública.
 

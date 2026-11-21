@@ -26,8 +26,7 @@
 I'm a software engineer with 5+ years of experience, based in Chile. I love building things and
 experimenting with the limits of code, and I try to create things that have a real impact in the world.
 
-Outside of code, I'm into photography and creating things in general. Right now those two worlds meet in
-**FilmSimulation**, a free app to apply film simulations to RAW photos.
+Outside of code, I'm into photography and creating things in general.
 
 Most of my work lives in private repositories; this page shows the public part.
 
@@ -37,8 +36,7 @@ Most of my work lives in private repositories; this page shows the public part.
 Soy ingeniero de software con más de 5 años de experiencia y vivo en Chile. Me gusta construir y
 experimentar con los límites del código, y trato de crear cosas que tengan un impacto real en el mundo.
 
-Fuera del código me gusta la fotografía y crear cosas en general. Hoy esos dos mundos se juntan en
-**FilmSimulation**, una app gratuita para aplicar simulaciones de película a fotos RAW.
+Fuera del código me gusta la fotografía y crear cosas en general.
 
 Gran parte de mi trabajo está en repositorios privados; aquí se ve la parte pública.
 

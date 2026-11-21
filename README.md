@@ -1,19 +1,58 @@
-<h1 align="center">Hi, I'm Sebastián 👋</h1>
+<h1 align="center">Hi, I'm Sebastián 👋 · Hola, soy Sebastián</h1>
 
 <p align="center">
-  <i>I build small, useful tools — right now, a film-simulation app for RAW photos.</i><br>
-  Chile 🇨🇱 · English / Español
+  <i>I build small, useful tools, end to end. · Hago herramientas pequeñas y útiles, de punta a punta.</i><br>
+  📍 Chile 🇨🇱
 </p>
 
 <p align="center">
   <a href="https://github.com/sebastianriquelme1321/FilmSimulation/releases"><img alt="FilmSimulation release" src="https://img.shields.io/github/v/release/sebastianriquelme1321/FilmSimulation?include_prereleases&label=FilmSimulation&logo=github&color=2F6FDB"></a>
   <a href="https://github.com/sebastianriquelme1321/FilmSimulation/discussions"><img alt="Feedback welcome" src="https://img.shields.io/badge/feedback-welcome-brightgreen"></a>
-  <img alt="Local first" src="https://img.shields.io/badge/privacy-100%25%20local-lightgrey">
+  <img alt="Languages: English, Español" src="https://img.shields.io/badge/languages-EN%20%C2%B7%20ES-lightgrey">
 </p>
 
 ---
 
-## 📷 Featured project — [FilmSimulation](https://github.com/sebastianriquelme1321/FilmSimulation)
+## 👤 About me · Acerca de mí
+
+<table>
+<tr>
+<th width="50%">🇬🇧 English</th>
+<th width="50%">🇪🇸 Español</th>
+</tr>
+<tr>
+<td valign="top">
+
+I'm a software developer from Chile. I like taking a small idea all the way to something people can
+actually use: the interface, the engine behind it, the tests, the packaging and the release.
+
+Lately that means a desktop app for photographers (Python and Qt). I've also built a web app (PWA) and
+a REST API (Java and Spring Boot). I care about software that is **local-first**, respects your
+privacy and is documented well enough for others to run and improve.
+
+Most of my work lives in private repositories; this page shows the public part.
+
+</td>
+<td valign="top">
+
+Soy desarrollador de software y vivo en Chile. Me gusta llevar una idea pequeña hasta algo que la gente
+pueda usar de verdad: la interfaz, el motor que está detrás, las pruebas, el empaquetado y el lanzamiento.
+
+Últimamente eso significa una app de escritorio para fotógrafos (Python y Qt). También he hecho una
+aplicación web (PWA) y una API REST (Java y Spring Boot). Me importa el software **local primero**, que
+respete tu privacidad y que esté bien documentado para que otros puedan usarlo y mejorarlo.
+
+Gran parte de mi trabajo está en repositorios privados; aquí se ve la parte pública.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📷 Featured project · Proyecto destacado
+
+### [FilmSimulation](https://github.com/sebastianriquelme1321/FilmSimulation)
 
 <p align="center">
   <a href="https://github.com/sebastianriquelme1321/FilmSimulation">
@@ -21,35 +60,44 @@
   </a>
 </p>
 
-A **free, open-source desktop app** to develop RAW photos and apply film simulations.
-Everything runs on your machine: **no accounts, no cloud, no telemetry**.
+A **free, open-source desktop app** to develop RAW photos and apply film simulations. Everything runs on
+your machine: **no accounts, no cloud, no telemetry**. · *App de escritorio gratuita y de código abierto
+para revelar fotos RAW y aplicar simulaciones de película; todo se procesa en tu equipo.*
 
-- 🎞️ 31 film looks (Fuji, Kodak, Ilford and more — approximations, not official profiles)
+- 🎞️ 31 film looks (Fuji, Kodak, Ilford and more: approximations, not official profiles)
 - 🔍 Viewer with zoom, pan and a draggable before/after divider
 - 🎚️ Exposure, temperature, contrast, saturation, tint, look strength and grain
 - 📦 Shareable recipes and your own `.cube` / HaldCLUT LUTs
 - 💻 macOS (Apple Silicon and Intel) and Windows · Python · PySide6 · LibRaw · GPL-3.0
 
-**It's in beta and I'm looking for feedback from photographers.** If you try it, tell me your camera make
-and model and whether your RAW files open — that's the most useful thing you can send.
+**Status: beta, looking for feedback from photographers.** If you try it, tell me your camera make and
+model and whether your files open. · *Estado: beta; busco feedback de fotógrafos.*
 
 <p align="center">
-  <a href="https://github.com/sebastianriquelme1321/FilmSimulation/releases"><b>⬇️ Download the beta</b></a>
+  <a href="https://github.com/sebastianriquelme1321/FilmSimulation/releases"><b>⬇️ Download · Descargar</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/sebastianriquelme1321/FilmSimulation/discussions"><b>💬 Give feedback</b></a>
+  <a href="https://github.com/sebastianriquelme1321/FilmSimulation/discussions"><b>💬 Feedback</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/sebastianriquelme1321/FilmSimulation/issues/new/choose"><b>🐞 Report a problem</b></a>
+  <a href="https://github.com/sebastianriquelme1321/FilmSimulation/issues/new/choose"><b>🐞 Report a problem · Reportar un problema</b></a>
 </p>
 
 ---
 
-## 🛠️ Other projects
+## 🗂️ Projects · Proyectos
 
-| Project | What it is |
-| --- | --- |
-| [**hierro-app**](https://github.com/sebastianriquelme1321/hierro-app) | PWA to log strength training. *(JavaScript)* |
+| Project · Proyecto | What it is · Qué es | Stack | Status · Estado |
+| --- | --- | --- | --- |
+| [**FilmSimulation**](https://github.com/sebastianriquelme1321/FilmSimulation) | Film simulations for RAW photos, with a viewer, recipes and your own LUTs. · *Simulaciones de película para fotos RAW.* | Python · Qt · LibRaw | 🟢 Active, beta · *Activo, beta* |
+| [**hierro-app**](https://github.com/sebastianriquelme1321/hierro-app) | PWA to log strength training. · *PWA para registrar entrenamientos de fuerza.* | JavaScript · PWA | 🔵 Personal project · *Proyecto personal* |
+| [**bci-project**](https://github.com/sebastianriquelme1321/bci-project) | REST API for user management with JWT authentication. · *API REST de gestión de usuarios con autenticación JWT.* | Java 11 · Spring Boot · Gradle | ⚪ Older project (2025) · *Proyecto anterior (2025)* |
 
-## 🧰 Tools I use
+## 🍴 Forks
+
+| Fork | Upstream · Original | Notes · Notas |
+| --- | --- | --- |
+| [**habblaud**](https://github.com/sebastianriquelme1321/habblaud) | [marmottajr/habblaud](https://github.com/marmottajr/habblaud) (MIT) | Fork of the original project, no changes yet. · *Fork del proyecto original, sin cambios todavía.* |
+
+## 🧰 Tools · Herramientas
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
@@ -57,10 +105,17 @@ and model and whether your RAW files open — that's the most useful thing you c
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
   <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white">
+  <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
   <img alt="PyInstaller" src="https://img.shields.io/badge/PyInstaller-000000?logo=python&logoColor=white">
 </p>
 
 ---
 
-<p align="center"><sub>🇪🇸 Hago herramientas pequeñas y útiles. Mi proyecto actual, <b>FilmSimulation</b>, es una app gratuita para aplicar simulaciones de película a fotos RAW — todo se procesa en tu equipo. Estoy en beta y busco feedback.</sub></p>
+## 📫 Contact · Contacto
+
+The best way to reach me is through [FilmSimulation's discussions](https://github.com/sebastianriquelme1321/FilmSimulation/discussions) or an
+[issue](https://github.com/sebastianriquelme1321/FilmSimulation/issues/new/choose). ·
+*La mejor forma de contactarme es por las discusiones o los issues de FilmSimulation.*

@@ -26,9 +26,8 @@
 I'm a software developer from Chile. I like taking a small idea all the way to something people can
 actually use: the interface, the engine behind it, the tests, the packaging and the release.
 
-Lately that means a desktop app for photographers (Python and Qt). I've also built a web app (PWA) and
-a REST API (Java and Spring Boot). I care about software that is **local-first**, respects your
-privacy and is documented well enough for others to run and improve.
+Lately that means a desktop app for photographers (Python and Qt). I care about software that is
+**local-first**, respects your privacy and is documented well enough for others to run and improve.
 
 Most of my work lives in private repositories; this page shows the public part.
 
@@ -38,9 +37,9 @@ Most of my work lives in private repositories; this page shows the public part.
 Soy desarrollador de software y vivo en Chile. Me gusta llevar una idea pequeña hasta algo que la gente
 pueda usar de verdad: la interfaz, el motor que está detrás, las pruebas, el empaquetado y el lanzamiento.
 
-Últimamente eso significa una app de escritorio para fotógrafos (Python y Qt). También he hecho una
-aplicación web (PWA) y una API REST (Java y Spring Boot). Me importa el software **local primero**, que
-respete tu privacidad y que esté bien documentado para que otros puedan usarlo y mejorarlo.
+Últimamente eso significa una app de escritorio para fotógrafos (Python y Qt). Me importa el software
+**local primero**, que respete tu privacidad y que esté bien documentado para que otros puedan usarlo
+y mejorarlo.
 
 Gran parte de mi trabajo está en repositorios privados; aquí se ve la parte pública.
 
@@ -83,14 +82,6 @@ model and whether your files open. · *Estado: beta; busco feedback de fotógraf
 
 ---
 
-## 🗂️ Projects · Proyectos
-
-| Project · Proyecto | What it is · Qué es | Stack | Status · Estado |
-| --- | --- | --- | --- |
-| [**FilmSimulation**](https://github.com/sebastianriquelme1321/FilmSimulation) | Film simulations for RAW photos, with a viewer, recipes and your own LUTs. · *Simulaciones de película para fotos RAW.* | Python · Qt · LibRaw | 🟢 Active, beta · *Activo, beta* |
-| [**hierro-app**](https://github.com/sebastianriquelme1321/hierro-app) | PWA to log strength training. · *PWA para registrar entrenamientos de fuerza.* | JavaScript · PWA | 🔵 Personal project · *Proyecto personal* |
-| [**bci-project**](https://github.com/sebastianriquelme1321/bci-project) | REST API for user management with JWT authentication. · *API REST de gestión de usuarios con autenticación JWT.* | Java 11 · Spring Boot · Gradle | ⚪ Older project (2025) · *Proyecto anterior (2025)* |
-
 ## 🍴 Forks
 
 | Fork | Upstream · Original | Notes · Notas |
@@ -104,10 +95,6 @@ model and whether your files open. · *Estado: beta; busco feedback de fotógraf
   <img alt="Qt / PySide6" src="https://img.shields.io/badge/Qt%20%2F%20PySide6-41CD52?logo=qt&logoColor=white">
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
   <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white">
-  <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
   <img alt="PyInstaller" src="https://img.shields.io/badge/PyInstaller-000000?logo=python&logoColor=white">
 </p>

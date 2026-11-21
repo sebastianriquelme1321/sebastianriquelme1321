@@ -23,7 +23,7 @@
 <tr>
 <td valign="top">
 
-I'm a software developer from Chile. I like taking a small idea all the way to something people can
+I'm a software engineer from Chile with 5+ years of experience. I like taking a small idea all the way to something people can
 actually use: the interface, the engine behind it, the tests, the packaging and the release.
 
 Lately that means a desktop app for photographers (Python and Qt). I care about software that is
@@ -34,7 +34,7 @@ Most of my work lives in private repositories; this page shows the public part.
 </td>
 <td valign="top">
 
-Soy desarrollador de software y vivo en Chile. Me gusta llevar una idea pequeña hasta algo que la gente
+Soy ingeniero de software con más de 5 años de experiencia y vivo en Chile. Me gusta llevar una idea pequeña hasta algo que la gente
 pueda usar de verdad: la interfaz, el motor que está detrás, las pruebas, el empaquetado y el lanzamiento.
 
 Últimamente eso significa una app de escritorio para fotógrafos (Python y Qt). Me importa el software
